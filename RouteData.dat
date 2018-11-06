@@ -1,0 +1,27 @@
+set A := WuHu WuXi TaiCang SuZhou ;
+set B := t10 t15 t20 ;
+
+param D := 
+WuHu WuHu 0
+WuHu WuXi 1678
+WuHu TaiCang 108
+WuHu SuZhou 25
+WuXi WuHu 2345
+WuXi WuXi 0
+WuXi TaiCang 3928
+WuXi SuZhou 1395
+TaiCang WuHu 2045
+TaiCang WuXi 4090
+TaiCang TaiCang 0
+TaiCang SuZhou 6448
+SuZhou WuHu 758
+SuZhou WuXi 35450 
+SuZhou TaiCang 10698
+SuZhou SuZhou 0
+;
+
+param W := 
+t10 10
+t15 15
+t20 20
+;
